@@ -252,7 +252,7 @@
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [Slack Communities](https://github.com/filipelinhares/awesome-slack)
-- [Continuous Delivery](https://github.com/itech001/ciandcd)
+- [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
