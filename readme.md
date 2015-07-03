@@ -36,7 +36,7 @@
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
-- [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
+- [Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
